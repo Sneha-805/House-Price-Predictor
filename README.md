@@ -7,7 +7,6 @@ This project is a **Machine Learning-based Web App** that predicts the price of 
 ## 🚀 Demo
 
 🔗 [Live App on Streamlit](https://house-price-predictor-lfzy6rzueix3cjdbtp8stc.streamlit.app/)  
-*(replace this link with your actual app URL)*
 
 ---
 
@@ -52,12 +51,6 @@ pip install -r requirements.txt
 3. Run the app
 
 streamlit run app.py
-
-📷 Screenshots
-
-
-
-
 
 🛠 Built With
 
