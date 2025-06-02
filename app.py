@@ -9,7 +9,7 @@ import plotly.express as px
 st.set_page_config(page_title="House Price Predictor", layout="wide")
 
 
-model_path = os.path.join(os.path.dirname(__file__), "models/house_price_model.pkl")
+model_path = os.path.join(os.path.dirname(__file__), "./models/house_price_model.pkl")
 model = joblib.load(model_path)
 
 
